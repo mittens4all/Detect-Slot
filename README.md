@@ -1,6 +1,6 @@
 # Detect Slot
 
-Minecraft Bedrock 1.21.90+ behavior pack, detects which hotbar slot a player selects and assigns the corresponding value to a scoreboard objective. You can use the scores target selector argument in your own commands.
+Minecraft Bedrock 1.21.100+ behavior pack, detects which hotbar slot a player selects and assigns the corresponding value to a scoreboard objective. You can use the scores target selector argument in your own commands.
 
 ## Installing the pack:
 
