@@ -1,11 +1,11 @@
 {
     "format_version": 2,
     "header": {
-        "description": "v1.0.0 - Pack by Mittens4all - Detect Slot",
+        "description": "v1.1.0 - Pack by Mittens4all - Detect Slot",
         "name": "Detect Slot",
         "uuid": "04082d3f-bbdf-42a9-8059-aebc2d528714",
-        "version": [ 1, 0, 0 ],
-        "min_engine_version": [ 1, 21, 90 ]
+        "version": [ 1, 1, 0 ],
+        "min_engine_version": [ 1, 21, 100 ]
     },
     "modules": [
         {
@@ -24,9 +24,7 @@
         }
     ],
     "metadata": {
-        "authors": [
-            "mittens4all"
-        ],
+        "authors": [ "mittens4all" ],
         "license": "MIT",
         "url": "https://github.com/mittens4all/",
         "product_type": "addon"
